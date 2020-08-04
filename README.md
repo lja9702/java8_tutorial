@@ -410,4 +410,7 @@ Stream 관련해서 아래 링크에 더 자세하게 설명되어 있습니다.
 
 [https://futurecreator.github.io/2018/08/26/java-8-streams/](https://futurecreator.github.io/2018/08/26/java-8-streams/)
 
+# 추가로 보기 좋은 글
+[람다가 이끌어 갈 모던 Java](https://d2.naver.com/helloworld/4911107)
+
  
